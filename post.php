@@ -45,4 +45,5 @@ function obtenerPost()
         echo "<b>Likes: </b>".$post->getMeGusta()."<br>";
     }
 }
+echo "hola";
 ?>
